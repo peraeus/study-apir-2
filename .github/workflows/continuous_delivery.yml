@@ -14,3 +14,5 @@ jobs:
                 run: |
                     echo "Nova i"
                     ls
+            -   name: One Piece
+                run: echo "kaizoku oniorenaru tokuta"
